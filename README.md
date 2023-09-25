@@ -1,2 +1,2 @@
 # hello-world
-Test av GitHub
+Test av GitHub, test of new brach.
